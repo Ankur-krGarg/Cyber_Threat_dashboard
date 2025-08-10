@@ -1,6 +1,8 @@
 """
 sources.py
 
+(File with 10 sources)
+
 Top 10 trusted threat intelligence sources.
 
 List of threat intelligence data sources to fetch.
@@ -87,3 +89,4 @@ sources = [
         "filename": "blocklist_de.txt"
     },
 ]
+
